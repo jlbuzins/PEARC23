@@ -5,7 +5,7 @@ Spatiotemporal analysis of laboratory-generated turbulence
 
 PEARC23 Visualization Supplemental Repository
 ---------------------------------------------
-.
+ 
 The study of stratified and turbulent shear flows is of great societal
 interest. In addition to its visually striking nature, such flows are
 ubiquitous and understanding them is vital for understanding a number of
