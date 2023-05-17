@@ -1,6 +1,8 @@
 Spatiotemporal analysis of laboratory-generated turbulence
 ==========================================================
 
+<img href="t0066.png" width="100%"/>
+
 PEARC23 Visualization Supplemental Repository
 ---------------------------------------------
 
